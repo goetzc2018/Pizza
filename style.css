@@ -1,0 +1,42 @@
+
+body {
+background-color:red;
+color:MediumBlue;
+}
+div.blackolives {
+background-image:url("olives.jpg");
+height: 200px;
+width: 200px;
+
+}
+div.pepperoni {
+background-image:url("pepperoni.jpg");
+height: 200px;
+width: 200px;
+}
+
+div.bacon {
+background-image: url("bacon.jpg");
+height: 200px;
+width: 200px;
+}
+div.ham {
+background-image: url("ham.jpg");
+height: 200px;
+"olives.jpg"width: 200px;
+}
+div.beef { 
+background-image: url("beef.jpg");
+height: 200px
+width: 200px
+}
+div.pineapple {
+backround-image: url("pineapple.jpg");
+height: 200px
+width: 200px
+}
+div.mushrooms {
+backround-image: url("shrooms.jpg")
+height: 500px
+width: 500px
+}
